@@ -1,1 +1,9 @@
-dimwishlist:item=2809120022&perks=1476923952,3751917993
+title:Exotic Class Item Rolls
+dimwishlist:item=2809120022&perks=1476923952,3751917993#notes:Invis gives Volatile Rounds
+dimwishlist:item=2809120022&perks=3751917998,1476923955#notes:Super refund + damage
+dimwishlist:item=2809120022&perks=3751917997,1476923955#notes:Super and weapon synergy
+dimwishlist:item=2809120022&perks=3751917995,3751917994#notes:Grenades give resistance
+dimwishlist:item=2809120022&perks=3751917996,3751917992#notes:Melee explosions!
+dimwishlist:item=2809120022&perks=3751917997,3751917993#notes:Void weapon power
+
+dimwishlist:item=2273643087&perks=183430252,183430247#notes:Poison melees

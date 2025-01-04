@@ -7,3 +7,6 @@ dimwishlist:item=2809120022&perks=3751917996,3751917992#notes:Melee explosions!
 dimwishlist:item=2809120022&perks=3751917997,3751917993#notes:Void weapon power
 
 dimwishlist:item=2273643087&perks=183430252,183430247#notes:Poison melees
+dimwishlist:item=2273643087&perks=183430253,1476923957#notes:Grenade damage and recharge
+dimwishlist:item=2273643087&perks=1476923953,1476923955#notes:Ability regen and super damage
+dimwishlist:item=2273643087&perks=183430255,183430251#notes:Rift shockwaves + devour

@@ -1,0 +1,80 @@
+title:LieutenantDebug's Wishlist
+description:LtDebug's curated wishlist
+
+#Auto Rifles
+dimwishlist:item=2826850739&perks=243981275,3891536761#notes:Good orb gen + AoE
+dimwishlist:item=3428407746&perks=1359896290,1890422124#notes:PvP Laser
+dimwishlist:item=3754408118&perks=2387244414,1359896290#notes:PvP Laser
+dimwishlist:item=3754408118&perks=1890422124,1359896290#notes:PvP Laser
+dimwishlist:item=3863882743&perks=1359896290,1890422124#notes:PvP Laser
+dimwishlist:item=2119346509&perks=1359896290,1890422124#notes:PvP Laser
+dimwishlist:item=1801007332&perks=2980589453,243981275#notes:Self-heal+orb gen
+dimwishlist:item=1992309064&perks=1890422124,1359896290#notes:PvP Laser
+dimwishlist:item=424291879&perks=2848615171,2048641572#notes:Void explosion
+
+#Bows
+dimwishlist:item=3621336854&perks=201365942,3891536761#notes:Easy AoE
+dimwishlist:item=45643573&perks=201365942,124408337#notes:Crystal gen
+dimwishlist:item=3388655311&perks=2848615171,4293542123#notes:Solar explosions
+
+#Fusion Rifles
+dimwishlist:item=963710795&perks=1523832109,2978966579#notes:Free chill clip
+dimwishlist:item=3969066556&perks=1600092898,1427256713#notes:Swap burst
+dimwishlist:item=3591141932&perks=3418782618,2594592626#notes:DPS
+dimwishlist:item=3293524502&perks=1523832109,1427256713#notes:Multiple bursts
+
+#Grenade Launchers (Special)
+dimwishlist:item=3849810018&perks=3300816228,3523296417#notes:Neutral
+dimwishlist:item=568611922&perks=3300816228,469285294#notes:Burst swap for elites
+dimwishlist:item=568611922&perks=3300816228,4104185692#notes:Strong neutral
+dimwishlist:item=568611922&perks=951095735,1546637391#notes:DPS
+dimwishlist:item=568611922&perks=3300816228,1546637391#notes:Swap DPS
+#Area Denial
+dimwishlist:item=1197771438&perks=3300816228,4049631843#notes:Strong neutral
+dimwishlist:item=1197771438&perks=3300816228,3523296417#notes:Grenade gen
+dimwishlist:item=2599338624&perks=3987942396,2978966579#notes:Swap DPS
+dimwishlist:item=1762785663&perks=776531651,2048641572#notes:Void explosions+shields
+dimwishlist:item=1762785663&perks=3523296417,243981275#notes:Orb gen + grenade gen
+#Wave Frame
+dimwishlist:item=1218113510&perks=2039302152,2396489472,2120661319#notes:Add clear
+dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:Best add clear
+dimwishlist:item=613334176&perks=2010801679,2396489472#notes:Best add clear
+
+#Hand Cannons
+dimwishlist:item=2763843898&perks=243981275,3891536761#notes:Orb gen + AoE
+dimwishlist:item=3236112986&perks=247725512,3891536761#notes:Strong neutral
+dimwishlist:item=2763843898&perks=3824105627,3891536761#notes:AoE
+dimwishlist:item=2763843898&perks=3828510309,3891536761#notes:Strong neutral
+dimwishlist:item=3055790362&perks=957782887,2387244414#notes:PvP
+dimwishlist:item=2763843899&perks=3017780555,4293542123#notes:Solar staples
+dimwishlist:item=963574173&perks=2048641572,3038247973#notes:Void explosions
+
+#Pulse Rifles
+dimwishlist:item=501329015&perks=2938480696,3891536761#notes:Strong neutral
+dimwishlist:item=1123433952&perks=1955165503,124408337,4264904777#notes:Crystal gen
+dimwishlist:item=1751893422&perks=247725512,3047969693,192157151#notes:Strong neutral
+
+#Scout Rifles
+dimwishlist:item=1453235079&perks=3891536761,3038247973#notes:Strong neutral AoE
+
+#Shotguns
+dimwishlist:item=4248569242&perks=461595545,3335686050#notes:Swap burst
+dimwishlist:item=318443586&perks=3300816228,2360754333#notes:Damage
+dimwishlist:item=3163900678&perks=4071163871,2679249093#notes:12P
+
+#Sidearms
+dimwishlist:item=3381450498&perks=951095735,2173046394#notes:AoE clear
+
+#Sniper Rifles
+dimwishlist:item=2884596447&perks=3418782618,1354429876#notes:DPS no reload needed
+dimwishlist:item=2884596447&perks=1556840489,3891536761#notes:Swap burst (2-tap tremors)
+dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Swap burst
+dimwishlist:item=2673925403&perks=1354429876,1771339417#notes:DPS
+dimwishlist:item=445197843&perks=3418782618,1771339417#notes:DPS
+dimwishlist:item=445197843&perks=3418782618,3078487919#notes:DPS
+dimwishlist:item=445197843&perks=3418782618,3640170453#notes:Extended DPS phases
+
+#SMGs
+dimwishlist:item=3211624072&perks=243981275,3891536761,2120661319#notes:Good orb gen + AoE
+dimwishlist:item=825495813&perks=1119449540,3966416502#notes:Arc AoE
+dimwishlist:item=825495813&perks=243981275,3966416502#notes:Arc orb gen

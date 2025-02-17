@@ -68,8 +68,19 @@ dimwishlist:item=1123433952&perks=1955165503,124408337,4264904777#notes:Crystal 
 dimwishlist:item=1751893422&perks=247725512,3047969693,192157151#notes:Strong neutral
 
 #Rocket Launchers
-dimwishlist:item=1719687748&perks=2284787283,3194351027#DPS
-dimwishlist:item=1719687748&perks=1523832109,3194351027#Swap DPS
+dimwishlist:item=1719687748&perks=2284787283,3194351027#notes:DPS
+dimwishlist:item=1719687748&perks=1523832109,3194351027#notes:Swap DPS
+dimwishlist:item=694275488&perks=3987942396,1089671869#notes:Swap DPS - Prismatic
+dimwishlist:item=694275488&perks=3987942396,3194351027#notes:Swap DPS
+dimwishlist:item=694275488&perks=2284787283,1089671869#notes:DPS
+dimwishlist:item=694275488&perks=2284787283,3194351027#notes:DPS
+dimwishlist:item=694275488&perks=2869569095,1439600632#notes:Large reserves
+dimwishlist:item=2265407516&perks=3987942396,3078487919#notes:Swap DPS
+dimwishlist:item=2265407516&perks=3987942396,3194351027#notes:Swap DPS
+dimwishlist:item=2265407516&perks=3987942396,1089671869#notes:Swap DPS - Prismatic
+dimwishlist:item=2265407516&perks=3300816228,1439600632#notes:Quadruple rocket
+dimwishlist:item=1719687748&perks=2284787283,3194351027#notes:DPS
+dimwishlist:item=2922749929&perks=2869569095,1439600632#notes:Large reserves
 
 #Scout Rifles
 dimwishlist:item=1453235079&perks=3891536761,3038247973#notes:Strong neutral AoE
@@ -95,3 +106,11 @@ dimwishlist:item=445197843&perks=3418782618,3640170453#notes:Extended DPS phases
 dimwishlist:item=3211624072&perks=243981275,3891536761,2120661319#notes:Good orb gen + AoE
 dimwishlist:item=825495813&perks=1119449540,3966416502#notes:Arc AoE
 dimwishlist:item=825495813&perks=243981275,3966416502#notes:Arc orb gen
+
+#Swords
+dimwishlist:item=2889501828&perks=2396489472,3650930298#notes:Chain slow
+dimwishlist:item=2889501828&perks=3666208348,269888150,1749209109,3078487919#notes:DPS
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130#notes:High DPS, low ammo
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3078487919#notes:High DPS, low ammo
+dimwishlist:item=250721843&perks=3666208348,269888150,1749209109,3913600130#notes:Standard DPS
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201#notes:Surr. DPS, higher impact

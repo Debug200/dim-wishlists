@@ -102,6 +102,7 @@ dimwishlist:item=2922749929&perks=2869569095,1439600632#notes:Large reserves
 dimwishlist:item=4224667951&perks=3300816228,1439600632#notes:Swap DPS
 dimwishlist:item=4224667951&perks=3300816228,3194351027#notes:Swap DPS
 dimwishlist:item=4224667951&perks=2869569095,1439600632#notes:DPS
+dimwishlist:item=4106757302&perks=1421772400,3993379141#notes:Construct DPS (w/HBA)
 
 #Scout Rifles
 dimwishlist:item=1453235079&perks=3891536761,3038247973#notes:Strong neutral AoE
@@ -126,6 +127,8 @@ dimwishlist:item=445197843&perks=3418782618,3640170453#notes:Extended DPS phases
 dimwishlist:item=3844610113&perks=3987942396,3078487919#notes:Swap DPS
 dimwishlist:item=3844610113&perks=1354429876,1089671869#notes:Prismatic DPS
 dimwishlist:item=3844610113&perks=3891536761,3078487919#notes:Swap DPS (2-tap during rotation)
+dimwishlist:item=4200122994&perks=3993379141,1771339417#notes:Construct DPS
+dimwishlist:item=4200122994&perks=3993379141,1546637391#notes:Construct DPS
 
 #SMGs
 dimwishlist:item=3211624072&perks=243981275,3891536761,2120661319#notes:Good orb gen + AoE
